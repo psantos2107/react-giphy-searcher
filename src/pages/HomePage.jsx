@@ -9,7 +9,7 @@ const HomePage = () => {
 
   useEffect(() => {
     fetch(
-      `http://api.giphy.com/v1/gifs/trending?api_key=${
+      `https://api.giphy.com/v1/gifs/trending?api_key=${
         import.meta.env.VITE_GIPHY_KEY
       }`
     )

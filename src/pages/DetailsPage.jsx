@@ -8,7 +8,7 @@ const DetailsPage = () => {
 
   useEffect(() => {
     fetch(
-      `http://api.giphy.com/v1/gifs/${id}?api_key=${
+      `https://api.giphy.com/v1/gifs/${id}?api_key=${
         import.meta.env.VITE_GIPHY_KEY
       }`
     )
