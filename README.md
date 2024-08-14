@@ -1,8 +1,13 @@
-# React + Vite
+# Welcome to React Giphy Searcher!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this site, you will be able to search for all the GIFs you want to your heart's desire! Just open the app, type in your search query in the search bar, and find your favorite GIF!
 
-Currently, two official plugins are available:
+## Live Link
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Link: https://react-giphy-searcher-pauls.netlify.app/
+
+## Tech Stack
+Front-end: React.js
+
+## Features
+This is meant to be a simple site in order to demonstrate knowledge of basic React tools, including React Router. Features include search bars, pagination, and a details page to see specifics on any particular GIF. The app is also mobile responsive. 
